@@ -16,12 +16,12 @@
 
 - `请使用系统相机或微信扫码，跳转AppStore下载安装即可`
 
-<img src="  >![anyconnect-ios](https://it.digitalchina.com/resource/vpn/anyconnect-ios.png)
+<img src="https://it.digitalchina.com/resource/vpn/anyconnect-ios.png
 " alt="anyconnect-ios" style="zoom:50%;" align="middle" />
 
 ### - [Android][android]
 
-<img src="  >![anyconnect-ios](https://it.digitalchina.com/resource/vpn/anyconnect-ios.png)
+<img src="https://it.digitalchina.com/resource/vpn/anyconnect-android.png
 " alt="anyconnect-android" style="zoom:50%;" align="middle" />
 
 [win]: https://it.digitalchina.com/resource/vpn/anyconnect-win-4.8.03052-core-vpn.exe
