@@ -1,4 +1,3 @@
-# VPN
 # 各版本AnyConnect 安装包
 
 ### - [Windows][win]
@@ -17,11 +16,13 @@
 
 - `请使用系统相机或微信扫码，跳转AppStore下载安装即可`
 
-<img src="./../resource/vpn/image/anyconnect-ios.png" alt="anyconnect-ios" style="zoom:50%;" align="middle" />
+<img src="  >![anyconnect-ios](https://it.digitalchina.com/resource/vpn/anyconnect-ios.png)
+" alt="anyconnect-ios" style="zoom:50%;" align="middle" />
 
 ### - [Android][android]
 
-<img src="./../resource/vpn/image/anyconnect-android.png" alt="anyconnect-android" style="zoom:50%;" align="middle" />
+<img src="  >![anyconnect-ios](https://it.digitalchina.com/resource/vpn/anyconnect-ios.png)
+" alt="anyconnect-android" style="zoom:50%;" align="middle" />
 
 [win]: https://it.digitalchina.com/resource/vpn/anyconnect-win-4.8.03052-core-vpn.exe
 [win-arm]: https://it.digitalchina.com/resource/vpn/anyconnect-win-arm64-4.8.02042-core-vpn.exe
