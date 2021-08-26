@@ -32,7 +32,7 @@ VPN是移动办公必备的工具之一，连接VPN需要具备**`VPN客户端`*
 
 - > 移动终端（iOS/Android)
 
-  - 通过访问下载页面进行扫码，或者应用商店下载Cisco AnyConnect，然后依照下图添加VPN配置即可使用![anyconnect-ios.png](./../resource/vpn/image/anyconnect-ios.png)
+  - 通过访问下载页面进行扫码，或者应用商店下载Cisco AnyConnect，然后依照下图添加VPN配置即可使用![anyconnect-ios.png](./../resource/vpn/image/anyconnect-ios-1.png)
 
   
 
